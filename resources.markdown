@@ -4,6 +4,6 @@ title: Resources
 permalink: /resources/
 ---
 
-## Radiomics:
+### Radiomics:
 
 -
