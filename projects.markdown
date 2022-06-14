@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-### [Classy Radiomics](https://github.com/pwoznicki/ClassyRadiomics)
+### [AutoRadiomics](https://github.com/pwoznicki/AutoRadiomics)
 
 Python package and web application for radiomics analysis of medical images.
 
