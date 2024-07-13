@@ -1,9 +1,6 @@
 
-title: Piotr Woznicki
-email: piotrekwoznicki@gmail.com
-description: This blog focuses on ML applied to radiology.
-twitter_username: piotr_woznicki
-github_username:  pwoznicki
+title: Piotr
+description: Personal blog.
 theme: minima
 plugins:
   - jekyll-feed
